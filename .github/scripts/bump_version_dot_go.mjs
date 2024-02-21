@@ -21,7 +21,7 @@ try {
   throw err;
 }
 
-// prettier-ignore
+// prettier-ignore # to the moon
 const newVersion = `v${currentVersion.groups.major}.${currentVersion.groups.minor}.${parseInt(currentVersion.groups.patch) + 1}`;
 
 console.log(
