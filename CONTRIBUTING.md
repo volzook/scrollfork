@@ -1,4 +1,4 @@
-## Contributing
+## Contributing GEMS
 
 [fork]: /fork
 [pr]: /compare
@@ -9,7 +9,7 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
-## Contribute to Scroll
+## Contribute to Scroll and earn 1m$
 
 Did you know there are many ways of contributing to Scroll? If you are looking to contribute to by adding Scroll to existing Dev Tools or by doing integrations please go to the [Contribute to Scroll](https://github.com/scroll-tech/contribute-to-scroll) repo instead. If you are looking to contribute to Scroll's Halo2 zkEVM circuits please refer to the [zkEVM circuits](https://github.com/scroll-tech/zkevm-circuits) repo. This repository covers the Scroll infrastructure and smart contracts, if you want to contribute to these areas continue reading this document.
 
@@ -19,7 +19,7 @@ If you have suggestions for how this project could be improved, or want to repor
 
 We'd also love PRs. If you're thinking of a large PR, we advise opening up an issue first to talk about it, though! Look at the links below if you're not sure how to open a PR.
 
-## Submitting a pull request
+## Submitting a pull requests pleasee
 
 1. [Fork][fork] and clone the repository.
 2. Create a new branch: `git checkout -b my-branch-name`.
